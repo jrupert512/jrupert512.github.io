@@ -17,7 +17,7 @@ Click on pictures for close-ups</b><br>
     <tr>
       <td>
       <center>
-      <p><a href="photos/alien.JPG"><img src="photos/alien.jpg" alt="Alien" border="0" height="230" width="345"></a></p>
+      <p><a href="/photos/alien.JPG"><img src="/photos/alien.jpg" alt="Alien" border="0" height="230" width="345"></a></p>
       </center>
       <center>
       <p>The Extraterrestrial</p>
@@ -25,7 +25,7 @@ Click on pictures for close-ups</b><br>
       </td>
       <td>
       <center>
-      <p><a href="photos/prairiedog.JPG"><img src="photos/prairiedog.jpg" alt="Prairie Dogs" border="0" height="230" width="345"></a></p>
+      <p><a href="/photos/prairiedog.JPG"><img src="/photos/prairiedog.jpg" alt="Prairie Dogs" border="0" height="230" width="345"></a></p>
       </center>
       <center>
       <p>Prairie Dogs</p>
