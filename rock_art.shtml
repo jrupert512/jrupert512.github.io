@@ -6,7 +6,7 @@
 
 <body style="color: rgb(255, 255, 255); background-color: rgb(179, 101, 53);" alink="#000099" link="#cc0000" vlink="#666666">
 <center>
-<p><b style="color: rgb(255, 255, 255);"><i><font size="+3">Fun Photos<br>
+<p><b style="color: rgb(255, 255, 255);"><i><font size="+3">Pictographs & Petroglyphs<br>
 </font></i><br>
 Click on pictures for close-ups</b><br>
 </p>
@@ -17,52 +17,52 @@ Click on pictures for close-ups</b><br>
     <tr>
       <td>
       <center>
-      <p><a href="photos/alien.JPG"><img src="photos/alien.JPG" alt="Alien" border="0" height="345" width="230"></a></p>
+      <p><a href="photos/IMG_0834.JPG"><img src="photos/IMG_0834.JPG" alt="Moab 1" border="0" height="230" width="345"></a></p>
       </center>
       <center>
-      <p>The Extraterrestrial</p>
-      </center>
-      </td>
-      <td>
-      <center>
-      <p><a href="photos/prairiedog.JPG"><img src="photos/prairiedog.JPG" alt="Prairie Dogs" border="0" height="230" width="345"></a></p>
-      </center>
-      <center>
-      <p>Prairie Dogs</p>
+      <p>Moab 1</p>
       </center>
       </td>
       <td>
       <center>
-      <p><a href="photos/chicken.JPG"><img src="photos/chicken.JPG" alt="Big Chicken in a Field" border="0" height="230" width="345"></a></p>
+      <p><a href="photos/IMG_1538.JPG"><img src="photos/IMG_1538.JPG" alt="Moab 2" border="0" height="230" width="345"></a></p>
       </center>
       <center>
-      <p>The Chicken</p>
+      <p>Moab 2</p>
+      </center>
+      </td>
+      <td>
+      <center>
+      <p><a href="photos/IMG_1639.JPG"><img src="photos/IMG_1639.JPG" alt="Moab 3" border="0" height="230" width="345"></a></p>
+      </center>
+      <center>
+      <p>Moab 3</p>
       </center>
       </td>
     </tr>
     <tr>
       <td>
       <center>
-      <p><a href="photos/zebra_swallowtail.JPG"><img src="photos/zebra_swallowtail.JPG" border="0" height="230" width="345"></a></p>
+      <p><a href="photos/IMG_1640.JPG"><img src="photos/IMG_1640.JPG" alt="Moab 4" border="0" height="230" width="345"></a></p>
       </center>
       <center>
-      <p>Zebra Swallowtail</p>
-      </center>
-      </td>
-      <td>
-      <center>
-      <p><a href="photos/the_needles.JPG"><img src="photos/the_needles.JPG" border="0" height="230" width="345"></a></p>
-      </center>
-      <center>
-      <p>The Needles</p>
+      <p>Moab 4</p>
       </center>
       </td>
       <td>
       <center>
-      <p><a href="photos/corona_arch.JPG"><img src="photos/corona_arch.JPG" border="0" height="345" width="230"></a></p>
+      <p><a href="photos/IMG_0851.JPG"><img src="photos/IMG_0851.JPG" alt="Newspaper Rock 1" border="0" height="230" width="345"></a></p>
       </center>
       <center>
-      <p>Corona Arch</p>
+      <p>Newspaper Rock 1</p>
+      </center>
+      </td>
+      <td>
+      <center>
+      <p><a href="photos/IMG_0855.JPG"><img src="photos/IMG_0855.JPG"  alt="Newspaper Rock 2" border="0" height="345" width="230"></a></p>
+      </center>
+      <center>
+      <p>Newspaper Rock 2</p>
       </center>
       </td>
     </tr>
